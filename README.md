@@ -1,16 +1,34 @@
-## Hi there 👋
+ # Hi, I'm Tejash Chougale 👋
 
-<!--
-**TejashChougale/TejashChougale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Year Information Science & Engineering Student
 
-Here are some ideas to get you started:
+I'm a beginner exploring the world of programming and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing Information Science & Engineering
+- 🔨 Working on beginner-friendly projects
+- 🚀 Interested in building practical solutions and learning through projects
+
+### 📂 My Projects
+
+**⚡ WattWatch**
+
+An electricity consumption and bill management project.
+
+[GitHub Repository](https://github.com/TejashChougale/WattWatch) · [Live Demo](https://tejashchougale.github.io/WattWatch/)
+
+**🗺️ Accessible Campus Map**
+
+A campus navigation project designed to make finding important campus locations easier.
+
+### 🎯 My Current Goal
+
+To build my programming fundamentals, learn new technologies and become a better developer one project at a time.
+
+### 📫 Contact
+
+- Email: tejashchougale01@gmail.com
+- GitHub: [@TejashChougale](https://github.com/TejashChougale)
+
+---
+
+Learning, building and improving every day.*
