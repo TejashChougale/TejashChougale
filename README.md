@@ -1,4 +1,8 @@
- # Hi, I'm Tejash Chougale 👋
+<div align="center">
+  <img src="assets/profile-banner.gif" width="100%" alt="Tejash Chougale - Developer Profile Banner">
+</div>
+
+# Hi, I'm Tejash Chougale 👋
 
 ### First-Year Information Science & Engineering Student
 
